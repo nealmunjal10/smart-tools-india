@@ -87,7 +87,7 @@ welcome
     <h2>1. Canva - Free Graphic Design Tool</h2>
     <img src="https://www.canva.com/brand/static/images/meta-image.png" alt="Canva">
     <p>Canva lets you create logos, YouTube thumbnails, resumes, posters, and more — all free. Great for students, small businesses, and freelancers.</p>
-    <p><a href="https://partner.canva.com/affiliate-link">Try Canva Free →</a></p>
+    <p><a href="https://www.canva.com/join-your-affiliate-code">Try Canva Free →</a></p>
   </div>
 
   <div class="post">
